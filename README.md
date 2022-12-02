@@ -19,7 +19,7 @@
   ## Installation
   - open gitbash
   - navigate to the desired parent folder 
-  - type into gitbash 'git clone https://github.com/IMadeThisJustToPostThis/MSUBC_Module6_CH-Weather-App.git'
+  - type into gitbash 'git clone https://github.com/IMadeThisJustToPostThis/MSUBC_Module5_CH-Calendar.git'
   ## Testing
   no tests, simply bug tested manually
   ## Contributing
